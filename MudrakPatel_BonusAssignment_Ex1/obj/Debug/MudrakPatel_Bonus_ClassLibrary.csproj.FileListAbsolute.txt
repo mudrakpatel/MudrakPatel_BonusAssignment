@@ -1,0 +1,12 @@
+C:\Users\300878960\Desktop\MudrakPatel_Practice_ClassLibrary\MudrakPatel_Practice\bin\Debug\Books.mdf
+C:\Users\300878960\Desktop\MudrakPatel_Practice_ClassLibrary\MudrakPatel_Practice\bin\Debug\Books_log.ldf
+C:\Users\300878960\Desktop\MudrakPatel_Practice_ClassLibrary\MudrakPatel_Practice\bin\Debug\EntityFramework.dll
+C:\Users\300878960\Desktop\MudrakPatel_Practice_ClassLibrary\MudrakPatel_Practice\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\300878960\Desktop\MudrakPatel_Practice_ClassLibrary\MudrakPatel_Practice\bin\Debug\EntityFramework.xml
+C:\Users\300878960\Desktop\MudrakPatel_Practice_ClassLibrary\MudrakPatel_Practice\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\300878960\Desktop\MudrakPatel_Practice_ClassLibrary\MudrakPatel_Practice\obj\Debug\MudrakPatel_Bonus_ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\300878960\Desktop\MudrakPatel_Practice_ClassLibrary\MudrakPatel_Practice\obj\Debug\MudrakPatel_Practice.dll
+C:\Users\300878960\Desktop\MudrakPatel_Practice_ClassLibrary\MudrakPatel_Practice\obj\Debug\MudrakPatel_Practice.pdb
+C:\Users\300878960\Desktop\MudrakPatel_Practice_ClassLibrary\MudrakPatel_Practice\bin\Debug\MudrakPatel_Practice.dll.config
+C:\Users\300878960\Desktop\MudrakPatel_Practice_ClassLibrary\MudrakPatel_Practice\bin\Debug\MudrakPatel_Practice.dll
+C:\Users\300878960\Desktop\MudrakPatel_Practice_ClassLibrary\MudrakPatel_Practice\bin\Debug\MudrakPatel_Practice.pdb
